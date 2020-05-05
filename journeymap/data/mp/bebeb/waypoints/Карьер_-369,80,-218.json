@@ -1,0 +1,18 @@
+{
+  "id": "Карьер_-369,80,-218",
+  "name": "Карьер",
+  "icon": "waypoint-normal.png",
+  "x": -369,
+  "y": 80,
+  "z": -218,
+  "r": 81,
+  "g": 131,
+  "b": 45,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    6
+  ],
+  "persistent": true
+}

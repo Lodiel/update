@@ -1,0 +1,18 @@
+{
+  "id": "Деревня_-431,69,-372",
+  "name": "Деревня",
+  "icon": "waypoint-normal.png",
+  "x": -431,
+  "y": 69,
+  "z": -372,
+  "r": 62,
+  "g": 152,
+  "b": 99,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
